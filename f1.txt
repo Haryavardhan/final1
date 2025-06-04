@@ -1,1 +1,2 @@
 i amm adding content before cloning
+i appended after clone too
